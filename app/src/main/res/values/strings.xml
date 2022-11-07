@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">L5QuizApp</string>
+
+    <string name="Quiz1">2. Which of the following are methods in the activity and fragment lifecycles? Select all that apply.</string>
+    <string name="Quiz2">1. True or false? When your app goes into the background, it\'s not guaranteed to be destroyed. It may only be stopping and waiting for the user to return to it.</string>
+    <string name="Quiz2sub">Choose as many answers as you see fit.</string>
+
+    <string name="quizPoint">Each question carries 50 points</string>
+
+    <string name="stOTrue">True</string>
+    <string name="stOFalse">False</string>
+
+    <string name="stCreate">onCreate()</string>
+    <string name="stDraw">onDraw()</string>
+    <string name="stClick">onClick()</string>
+    <string name="stStart">onStart()</string>
+    <string name="stPause">onPause()</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+
 </resources>
